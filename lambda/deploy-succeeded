@@ -1,6 +1,6 @@
 
 [build]
-  publish = "public"
+  publish = "private"
   command = "npm run build"
   functions = "lambda"
 [build.environment]
